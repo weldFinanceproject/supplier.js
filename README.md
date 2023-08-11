@@ -48,5 +48,4 @@ await supplyAsset('0xAssetContractAddress', 100);
 await getInterestRate('0xAssetContractAddress');
 Dependencies
 web3.js
-Contributing
-If you'd like to contribute to this project, please fork the repository and submit a pull request.
+
