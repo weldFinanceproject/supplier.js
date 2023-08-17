@@ -1,4 +1,4 @@
-# supplier.js
+
 
 
 # Weld Finance Asset Functions
