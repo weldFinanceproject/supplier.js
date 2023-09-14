@@ -1,6 +1,4 @@
 
-
-
  Weld Finance Asset Functions
 
 This repository provides utility functions to interact with the Weld Finance money market, allowing users to supply assets and fetch current interest rates for a specific asset.
