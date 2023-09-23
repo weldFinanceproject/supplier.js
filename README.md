@@ -8,8 +8,6 @@ This repository provides utility functions to interact with the Weld Finance mon
 - **Supply Asset**: Allow users to supply assets to the money market.
 - **Get Interest Rate**: Fetch the current interest rate for a particular asset.
 
-
-
 ## Setup & Installation
 
 
