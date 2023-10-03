@@ -10,7 +10,6 @@ This repository provides utility functions to interact with the Weld Finance mon
 
 ## Setup & Installation
 
-
 1. **Clone the repository**
    
 
